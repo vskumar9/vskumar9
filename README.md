@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vskumar9&theme=darkhub" alt="vskumar9" /></a> </p>
 
-- 🔭 I’m currently working on **Equipment Leasing**
+- 🔭 My last project title is **Equipment Leasing based on Django Framework**
 - 👯 I’m looking to collaborate on **Student Discussion Website**
 - 🤝 I’m looking for help with **E-Commerce Website**
 - 🌱 I’m currently learning **Java Full Stack **
-- 💬 Ask me about **Python, java, JavaScript, C++, Web Technologies**
+- 💬 Ask me about **Python, Java, JavaScript, C++, Web Technologies**
 - 📫 How to reach me **vaddisanjeevkumar9676@gmail.com**
 - 👨‍💻 All of my projects are available at **github.com/vskumar9**
 - 📄 Know about my experiences **https://drive.google.com/file/d/187ktqkC45GQWONVCXMVYAFdUGiyBnpSw/view?usp=drivesdk**
