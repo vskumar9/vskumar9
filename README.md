@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vskumar9&theme=darkhub" alt="vskumar9" /></a> </p>
 
-- 🔭 My last project title is **Supply Chain Management System using JAVA, JDBC and MYSQL**
-- 👯 I’m looking to collaborate on **Supply-Chain-Management-System**
+- 🔭 My last project using **JAVA, JDBC and MYSQL**
+- 👯 I’m looking to collaborate
 - 💬 Ask me about **Python, Java, JavaScript, C++, Web Technologies**
 - 📫 How to reach me **vaddisanjeevkumar9676@gmail.com**
 - 👨‍💻 All of my projects are available at **github.com/vskumar9**
