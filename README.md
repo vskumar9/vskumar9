@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vskumar9&theme=darkhub" alt="vskumar9" /></a> </p>
 
-- 🔭 My last project using **JAVA, JDBC and MYSQL**
+- 🔭 My last project using **DotNet API, Angular.Js and SQL Server**
 - 👯 I’m looking to collaborate
-- 💬 Ask me about **Python, Java, JavaScript, C++, Web Technologies**
+- 💬 Ask me about **DotNet, Python, Java, JavaScript, C++, angular.js, Web Technologies**
 - 📫 How to reach me **vaddisanjeevkumar9676@gmail.com**
 - 👨‍💻 All of my projects are available at **github.com/vskumar9**
   
