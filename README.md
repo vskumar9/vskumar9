@@ -7,7 +7,7 @@
 
 - 🔭 My last project using **DotNet API, Angular.Js and SQL Server**
 - 👯 I’m looking to collaborate
-- 💬 Ask me about **DotNet, Python, Java, JavaScript, C++, angular.js, Web Technologies**
+- 💬 Ask me about **DotNet, Python, Java, JavaScript, angular.js, Web Technologies**
 - 📫 How to reach me **vaddisanjeevkumar9676@gmail.com**
 - 👨‍💻 All of my projects are available at **github.com/vskumar9**
   
